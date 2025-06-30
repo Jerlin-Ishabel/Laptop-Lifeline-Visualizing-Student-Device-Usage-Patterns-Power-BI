@@ -1,0 +1,101 @@
+Student_ID,Device_Type,Hours_Used_Per_Day,Purpose,Operating_System,Department,Time_of_Usage,Internet_Usage_Mode,App_Used_Most,Usage_Location,Device_Brand,Study_Hours,Entertainment_Hours,Sleep_Impact
+1,Laptop,7.7,Both,Windows,BCA,Morning,Mobile Data,YouTube,Library,Lenovo,3.8,3.9,Yes
+2,Laptop,9.5,Study,Linux,BA,Morning,WiFi,YouTube,Classroom,Apple,9.5,0.0,Yes
+3,Mobile,7.4,Entertainment,Android,CS,Evening,WiFi,Zoom,Hostel,Samsung,0.0,7.4,No
+4,Mobile,10.0,Both,iOS,BA,Night,WiFi,Zoom,Hostel,Apple,5.8,4.2,No
+5,Mobile,4.1,Entertainment,iOS,BA,Morning,Mobile Data,YouTube,Library,Others,0.0,4.1,No
+6,Mobile,9.6,Both,iOS,CS,Morning,WiFi,Zoom,Classroom,Dell,5.4,4.2,No
+7,Tablet,1.5,Both,Others,BCom,Morning,Mobile Data,WhatsApp,Classroom,Others,0.9,0.6,Yes
+8,Tablet,3.8,Study,Others,BSc,Afternoon,WiFi,YouTube,Hostel,Dell,3.8,0.0,No
+9,Tablet,4.3,Entertainment,Others,BBA,Night,WiFi,Others,Library,Dell,0.0,4.3,Yes
+10,Mobile,7.3,Entertainment,iOS,BCom,Morning,WiFi,Google Meet,Classroom,Dell,0.0,7.3,Yes
+11,Tablet,6.7,Study,Windows,BCA,Afternoon,Mobile Data,YouTube,Classroom,Samsung,6.7,0.0,Yes
+12,Mobile,3.8,Entertainment,Android,CS,Afternoon,WiFi,Others,Home,Others,0.0,3.8,Yes
+13,Mobile,5.0,Entertainment,iOS,BSc,Night,Mobile Data,WhatsApp,Hostel,Lenovo,0.0,5.0,Yes
+14,Mobile,4.9,Entertainment,iOS,BSc,Evening,WiFi,Google Meet,Classroom,Lenovo,0.0,4.9,Yes
+15,Laptop,2.8,Study,Windows,BCom,Evening,Mobile Data,Zoom,Home,Apple,2.8,0.0,No
+16,Laptop,2.2,Both,Windows,BSc,Evening,WiFi,YouTube,Home,Apple,1.1,1.1,Yes
+17,Laptop,8.8,Both,Linux,BSc,Night,Mobile Data,WhatsApp,Home,Apple,5.2,3.6,Yes
+18,Laptop,8.2,Both,Linux,BCA,Evening,WiFi,YouTube,Home,HP,4.2,4.0,No
+19,Tablet,1.7,Entertainment,iOS,BBA,Evening,WiFi,Zoom,Home,Lenovo,0.0,1.7,Yes
+20,Mobile,4.2,Both,Android,BBA,Morning,WiFi,WhatsApp,Hostel,HP,2.3,1.9,Yes
+21,Tablet,1.7,Both,Linux,BA,Night,Mobile Data,WhatsApp,Hostel,Apple,0.8,0.9,Yes
+22,Tablet,3.7,Entertainment,Others,CS,Evening,WiFi,WhatsApp,Classroom,Apple,0.0,3.7,Yes
+23,Laptop,4.3,Entertainment,Windows,BCA,Morning,Mobile Data,YouTube,Home,Apple,0.0,4.3,Yes
+24,Mobile,6.4,Both,Android,CS,Night,WiFi,WhatsApp,Home,Lenovo,2.6,3.8,Yes
+25,Tablet,4.9,Entertainment,Others,BSc,Afternoon,Mobile Data,WhatsApp,Library,Apple,0.0,4.9,No
+26,Mobile,7.1,Study,iOS,CS,Evening,WiFi,Others,Classroom,Samsung,7.1,0.0,No
+27,Tablet,8.7,Both,Android,BCom,Morning,WiFi,WhatsApp,Library,Others,3.7,5.0,No
+28,Tablet,9.4,Entertainment,Others,BA,Evening,WiFi,Others,Home,Others,0.0,9.4,No
+29,Tablet,4.3,Entertainment,iOS,BBA,Afternoon,Mobile Data,YouTube,Hostel,HP,0.0,4.3,Yes
+30,Laptop,1.7,Study,Windows,BCA,Evening,WiFi,Others,Classroom,HP,1.7,0.0,Yes
+31,Laptop,8.5,Both,Windows,BCA,Night,WiFi,YouTube,Library,Others,5.0,3.5,Yes
+32,Tablet,3.6,Both,Linux,BBA,Afternoon,Mobile Data,YouTube,Hostel,Samsung,1.8,1.8,No
+33,Mobile,8.0,Both,iOS,BBA,Afternoon,WiFi,WhatsApp,Home,Others,4.6,3.4,No
+34,Tablet,9.4,Both,Others,CS,Evening,WiFi,Google Meet,Library,Apple,5.3,4.1,Yes
+35,Laptop,9.5,Study,Linux,BCom,Morning,Mobile Data,Zoom,Classroom,Lenovo,9.5,0.0,No
+36,Laptop,4.5,Study,Linux,BBA,Morning,Mobile Data,Zoom,Library,HP,4.5,0.0,Yes
+37,Laptop,3.6,Entertainment,Windows,BCA,Night,Mobile Data,Others,Home,Dell,0.0,3.6,Yes
+38,Mobile,2.9,Study,iOS,CS,Evening,WiFi,WhatsApp,Home,Dell,2.9,0.0,Yes
+39,Mobile,6.8,Both,iOS,CS,Morning,Mobile Data,Others,Home,Others,3.7,3.1,Yes
+40,Mobile,4.9,Both,iOS,BBA,Night,WiFi,Zoom,Library,Dell,2.3,2.6,Yes
+41,Mobile,1.4,Entertainment,iOS,BCom,Morning,Mobile Data,Zoom,Library,HP,0.0,1.4,Yes
+42,Tablet,7.6,Entertainment,Android,CS,Evening,Mobile Data,Google Meet,Classroom,Others,0.0,7.6,No
+43,Tablet,2.6,Study,Windows,BCA,Night,WiFi,WhatsApp,Hostel,Dell,2.6,0.0,Yes
+44,Laptop,3.8,Entertainment,Linux,BSc,Night,Mobile Data,Zoom,Hostel,Samsung,0.0,3.8,No
+45,Laptop,8.8,Entertainment,Linux,CS,Evening,Mobile Data,YouTube,Classroom,Apple,0.0,8.8,No
+46,Laptop,5.5,Entertainment,Linux,BSc,Evening,WiFi,YouTube,Home,Apple,0.0,5.5,Yes
+47,Tablet,3.6,Study,Windows,BCom,Evening,Mobile Data,YouTube,Classroom,HP,3.6,0.0,No
+48,Mobile,5.0,Both,iOS,BSc,Night,Mobile Data,Zoom,Home,Others,2.4,2.6,No
+49,Tablet,7.1,Study,Android,BSc,Night,WiFi,Google Meet,Home,HP,7.1,0.0,No
+50,Mobile,4.4,Both,Android,BSc,Afternoon,Mobile Data,WhatsApp,Library,Apple,2.3,2.1,Yes
+51,Tablet,4.3,Entertainment,iOS,BBA,Morning,WiFi,Google Meet,Classroom,Lenovo,0.0,4.3,No
+52,Tablet,2.1,Entertainment,Linux,BBA,Evening,Mobile Data,Google Meet,Home,HP,0.0,2.1,Yes
+53,Mobile,2.6,Both,iOS,CS,Evening,Mobile Data,Zoom,Library,Samsung,1.4,1.2,Yes
+54,Tablet,6.7,Entertainment,Others,BBA,Morning,WiFi,Google Meet,Hostel,Apple,0.0,6.7,Yes
+55,Mobile,6.0,Entertainment,iOS,BSc,Afternoon,WiFi,Zoom,Library,Apple,0.0,6.0,No
+56,Tablet,4.7,Entertainment,Others,CS,Afternoon,Mobile Data,Zoom,Classroom,Apple,0.0,4.7,No
+57,Laptop,8.9,Both,Windows,BBA,Night,WiFi,Zoom,Hostel,Samsung,3.8,5.1,Yes
+58,Tablet,3.0,Both,iOS,CS,Evening,WiFi,Others,Library,HP,1.6,1.4,No
+59,Laptop,5.5,Study,Windows,BBA,Evening,WiFi,Zoom,Home,Dell,5.5,0.0,No
+60,Tablet,2.9,Both,Linux,BSc,Morning,Mobile Data,Others,Library,Others,1.4,1.5,No
+61,Tablet,4.7,Entertainment,Windows,BCA,Morning,WiFi,YouTube,Classroom,Apple,0.0,4.7,No
+62,Laptop,4.1,Study,Linux,BCA,Evening,Mobile Data,YouTube,Hostel,Samsung,4.1,0.0,Yes
+63,Mobile,3.2,Study,iOS,BA,Afternoon,WiFi,Zoom,Home,Samsung,3.2,0.0,No
+64,Tablet,4.8,Study,iOS,BSc,Evening,WiFi,Google Meet,Classroom,Lenovo,4.8,0.0,No
+65,Mobile,8.9,Entertainment,Android,CS,Night,Mobile Data,Google Meet,Hostel,Lenovo,0.0,8.9,No
+66,Laptop,1.5,Entertainment,Linux,BCom,Morning,WiFi,YouTube,Hostel,Samsung,0.0,1.5,No
+67,Mobile,4.3,Entertainment,Android,BSc,Afternoon,Mobile Data,Others,Library,Dell,0.0,4.3,No
+68,Tablet,5.1,Both,iOS,BSc,Morning,WiFi,Zoom,Classroom,Samsung,2.6,2.5,No
+69,Mobile,7.8,Study,iOS,BSc,Morning,WiFi,Zoom,Hostel,Others,7.8,0.0,No
+70,Mobile,5.7,Study,Android,BCom,Evening,WiFi,YouTube,Library,Lenovo,5.7,0.0,No
+71,Tablet,8.5,Both,Linux,BCA,Evening,Mobile Data,Zoom,Library,Samsung,5.1,3.4,Yes
+72,Tablet,3.8,Both,Windows,BSc,Night,Mobile Data,Others,Hostel,Others,2.0,1.8,Yes
+73,Laptop,5.7,Both,Linux,BBA,Afternoon,WiFi,Others,Home,HP,2.8,2.9,Yes
+74,Mobile,2.4,Both,Android,BA,Night,WiFi,Google Meet,Hostel,Lenovo,1.4,1.0,No
+75,Mobile,5.7,Entertainment,Android,BA,Evening,Mobile Data,WhatsApp,Classroom,HP,0.0,5.7,Yes
+76,Mobile,6.0,Study,iOS,BCom,Afternoon,Mobile Data,WhatsApp,Classroom,Samsung,6.0,0.0,No
+77,Mobile,2.1,Both,iOS,BA,Evening,WiFi,WhatsApp,Home,Samsung,1.0,1.1,Yes
+78,Mobile,6.9,Both,iOS,BBA,Afternoon,Mobile Data,Others,Library,HP,3.6,3.3,Yes
+79,Tablet,3.2,Study,Others,BBA,Afternoon,WiFi,Zoom,Classroom,Samsung,3.2,0.0,No
+80,Laptop,7.1,Study,Windows,BSc,Afternoon,Mobile Data,YouTube,Classroom,Others,7.1,0.0,Yes
+81,Mobile,3.9,Both,Android,CS,Afternoon,WiFi,Google Meet,Classroom,HP,2.3,1.6,Yes
+82,Mobile,8.1,Study,iOS,CS,Morning,Mobile Data,Others,Home,Samsung,8.1,0.0,No
+83,Mobile,9.9,Both,iOS,BBA,Night,Mobile Data,Google Meet,Home,Samsung,5.4,4.5,Yes
+84,Tablet,3.3,Study,Windows,BCA,Evening,Mobile Data,Others,Hostel,HP,3.3,0.0,No
+85,Mobile,5.6,Study,iOS,BCA,Morning,WiFi,Google Meet,Classroom,Samsung,5.6,0.0,Yes
+86,Laptop,3.3,Study,Linux,BCom,Evening,Mobile Data,Others,Home,Samsung,3.3,0.0,No
+87,Tablet,3.1,Both,Windows,BA,Evening,WiFi,YouTube,Library,Others,1.6,1.5,Yes
+88,Mobile,4.3,Study,Android,BBA,Night,WiFi,YouTube,Library,Apple,4.3,0.0,No
+89,Tablet,8.2,Study,Android,BCA,Morning,Mobile Data,Others,Library,Dell,8.2,0.0,Yes
+90,Laptop,8.5,Both,Windows,BSc,Afternoon,WiFi,WhatsApp,Classroom,Dell,4.6,3.9,Yes
+91,Mobile,1.8,Both,iOS,CS,Night,WiFi,Others,Classroom,Apple,0.9,0.9,Yes
+92,Tablet,8.3,Both,Windows,BA,Evening,WiFi,Google Meet,Home,Dell,3.9,4.4,No
+93,Laptop,5.9,Study,Windows,BA,Morning,Mobile Data,YouTube,Hostel,HP,5.9,0.0,No
+94,Mobile,9.9,Entertainment,iOS,BA,Night,WiFi,Others,Hostel,Others,0.0,9.9,No
+95,Laptop,2.6,Both,Linux,BSc,Afternoon,WiFi,Zoom,Home,Samsung,1.4,1.2,No
+96,Tablet,4.8,Entertainment,Android,BBA,Night,Mobile Data,Google Meet,Library,HP,0.0,4.8,Yes
+97,Laptop,8.3,Entertainment,Windows,BBA,Afternoon,WiFi,Zoom,Home,Apple,0.0,8.3,Yes
+98,Laptop,7.7,Entertainment,Linux,BBA,Afternoon,WiFi,Google Meet,Library,HP,0.0,7.7,No
+99,Tablet,6.4,Both,iOS,BBA,Evening,WiFi,Others,Hostel,Apple,2.9,3.5,No
+100,Tablet,9.5,Both,Android,BCA,Night,Mobile Data,Zoom,Library,Others,5.3,4.2,No
