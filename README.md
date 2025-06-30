@@ -1,11 +1,20 @@
 🎓 Laptop Lifeline: Visualizing Student Device Usage Patterns
 
-I’m excited to share my Power BI dashboard project completed as part of my Value-Added Course (VAC) – First Assessment Task. Titled “Laptop Lifeline: Visualize Device Usage Patterns,” this project was designed, developed, and presented individually during the scheduled course hours.
+
+I’m excited to share my Power BI dashboard project completed as part of my Value-Added Course (VAC) – First Assessment Task. 
+
+Titled “Laptop Lifeline: Visualize Device Usage Patterns,” 
+
+this project was designed, developed, and presented individually during the scheduled course hours.
+
+
 
 
 📘 Project Overview:
 
 This project explores how students use digital devices like laptops, mobiles, and tablets for study, entertainment, and communication. The goal was to identify patterns in usage behavior, evaluate how these patterns impact focus, sleep, and academic performance, and present the insights in an interactive Power BI dashboard.
+
+
 
 📘 Dataset Overview:
 
@@ -20,6 +29,8 @@ A dataset of 100 students was analyzed to examine:
 📲 Most used applications and internet usage mode (WiFi vs Mobile Data)
 
 💤 Sleep disruption based on device type used
+
+
 
 
 📈 Charts Used in the Dashboard:
@@ -43,6 +54,8 @@ A dataset of 100 students was analyzed to examine:
 🕒 Gauge Chart – Average daily usage of devices (5.49 hours)
 
 
+
+
 🔢 KPI Cards – Key performance indicators:
 
 Total Student Count
@@ -51,6 +64,8 @@ Average Study Hours
 Average Entertainment Hours
 
 🎛️ Slicers (Interactive Filters) – Based on Operating System and Department
+
+
 
 
 🔍 Key Insights:
@@ -66,6 +81,8 @@ Average Entertainment Hours
 💤 Mobile usage is more likely to impact sleep negatively
 
 📶 56% prefer WiFi over mobile data
+
+
 
 
 ✅ Conclusion:
